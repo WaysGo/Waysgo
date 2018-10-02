@@ -1,0 +1,72 @@
+
+#header-center-logo-slogan--0 {
+	background: #fafafa;
+}
+
+
+
+
+
+
+
+#desc-text-btn-halfbg--0 {
+	background: #fafafa;
+}
+#desc-text-btn-halfbg{
+    background: #f8f9fb;
+}
+
+#desc-text-btn-halfbg--0 .half-container-right {
+	background-image: url('../images/kiddoyo_wg1.png');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	opacity: 1;
+}
+#desc-text-btn-halfbg--1 {
+	background: #fafafa;
+}
+#desc-text-btn-halfbg{
+    background: #f8f9fb;
+}
+
+#desc-text-btn-halfbg--1 .half-container-right {
+	background-image: url('../images/sl_wg1.png');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	opacity: 1;
+}
+#desc-text-btn-halfbg--2 {
+	background: #fafafa;
+}
+#desc-text-btn-halfbg{
+    background: #f8f9fb;
+}
+
+#desc-text-btn-halfbg--2 .half-container-right {
+	background-image: url('../images/wgairship.png');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	opacity: 1;
+}
+#action-center-text-btn-img {
+	background: #fafafa;
+}
+#action-center-text-btn {
+    background: #e9fbff;
+}
+
+#action-center-text-btn .bg {
+    background-image: url('../images/bg-13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.1;
+}#footer-center-logo {
+	background: #fafafa;
+}
+
