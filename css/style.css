@@ -1018,7 +1018,7 @@ a.panel-heading.collapsed:after {
 .half-container-right {
     left: 50%;
     z-index: 0;
-    background-position: top left;
+    background-position: center center;
 }
 
 @media (max-width: 992px) {

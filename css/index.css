@@ -17,9 +17,9 @@
 }
 
 #desc-text-btn-halfbg--0 .half-container-right {
-	background-image: url('../images/kiddoyo_wg1.png');
-	background-size: cover;
-	-webkit-background-size: cover;
+	background-image: url('../images/kiddoyo_wg1.webp');
+	background-size: contain;
+	-webkit-background-size: contain;
 	background-repeat: no-repeat;
 	-webkit-background-repeat: no-repeat;
 	opacity: 1;
